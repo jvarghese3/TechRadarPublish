@@ -26,7 +26,6 @@
       <p>Every time the program runs, AWS will automatically replace duplicates with the newer version</p>
     <img src="Screen Shot 2018-08-01 at 2.16.12 PM">
     <br>
-    
-    <p>In the future, the messages can be organized to see what is the most valuble technology for Intuit to invest in.</p>
+<p>In the future, the messages can be organized to see what is the most valuble technology for Intuit to invest in.</p>
 </body>
 </html>
