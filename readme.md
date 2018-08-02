@@ -23,6 +23,8 @@
   <br>
       7. Python 3
     <br>
+    <br>
+    <h5> What it does </h5>
          * The first part of this program uses the Slack Converstions API to extract messages from the a Slack Channel.
       <p>* Slack's API accesses this channel by using a legacy token for the workspace.</p>
       <p>* It will also need the name of the channel or the last segment of the channel's URL.</p>
