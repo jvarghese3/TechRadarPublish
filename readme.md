@@ -35,5 +35,8 @@
     <img src="Screen Shot 2018-08-01 at 2.16.12 PM">
     <br>
 <p>In the future, the messages can be organized to see what is the most valuble technology for Intuit to invest in.</p>
+  <br>
+  <h5> Summary </h5>
+  <p>Intuit Technology Futures’ Tech Radar project has a Slack Channel where Intuit employees go to discuss the latest technological advancements and to tell others what they’ve found. The channel contains a series of articles posted by members with comments from other contributors, with no particular order other than the chronological. The task was to extract these messages with their associated metadata, and place them into AWS S3 so they can be displayed, searched and processed in the future. This is the start of a much larger project, where we essentially create a smarter version of current search engines, which can efficiently rummage the internet to help you find the most relevant result related to the technologies Intuit is interested in. The main part of the first step is to look through the Tech Radar Slack channel and automatically find the most beneficial technologies for Intuit to invest in. This project proposes major benefit to Intuit’s future and is currently being developed in the Technology Future’s group.</p>
 </body>
 </html>
